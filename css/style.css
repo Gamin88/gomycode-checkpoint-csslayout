@@ -1,0 +1,47 @@
+.presentation{
+    border:1px solid red;
+    background-color:red;
+    width:900px;
+    height:100px;
+    margin:12px;
+    padding:12px;
+}
+/*bordure des différent block*/
+.objectif{
+    width:350px;
+    border:1px solid black;
+    margin:12px;
+    padding:12px;
+}
+.experience{
+    width:500px;
+    height:250px;
+    border:1px solid black;
+    margin:12px;
+    margin-top:-190px;
+    margin-left:400px;
+    padding:12px;
+}
+.formation{
+    width:500px;
+    height:250px;
+    border:1px solid black;
+    margin:12px;
+    margin-left:400px;
+    padding:12px;
+}
+.lang{
+    width:500px;
+    height:250px;
+    border:1px solid black;
+    margin:12px;
+    margin-left:400px;
+    padding:12px;
+}
+.contacts{
+    border:5px solid red;
+    width:900px;
+    height:100px;
+    margin:12px;
+    padding:12px;
+}
